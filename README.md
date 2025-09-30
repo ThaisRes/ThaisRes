@@ -48,8 +48,9 @@ I am passionate about **technology, innovation, and problem-solving**. Always ea
 
 ## 📌 Featured Projects
 
-[![Readme Card](https://github.com/ThaisRes/get-things-done)]
-[![Readme Card](https://github.com/ThaisRes/Projeto-Aura)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThaisRes&repo=get-things-done&theme=dark)](https://github.com/ThaisRes/get-things-done)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThaisRes&repo=Projeto-Aura&theme=dark)](https://github.com/ThaisRes/Projeto-Aura)  
+
 
 ---
 
